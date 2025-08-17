@@ -2,7 +2,7 @@
 
 An end-to-end time-series forecasting project that analyzes 15 years of historical data for 5 major tech stocks and predicts future prices using a Long Short-Term Memory (LSTM) network.
 
-![Project Demo](images/nvda_prediction.png)
+![Project Demo](images/googl_prediction.png)
 
 ---
 
@@ -72,7 +72,7 @@ To run this project, follow these steps:
 The LSTM model successfully learned the underlying trends in the historical data. The final interactive Plotly chart provides a clear visual comparison between the model's predictions and the actual stock prices.
 
 **Example: NVIDIA (NVDA) Prediction vs. Actual Price**
-![NVIDIA Prediction](images/nvda_prediction.png)
+![NVIDIA Prediction](images/googl_prediction.png)
 
 The model's performance was quantitatively evaluated using RMSE, providing a concrete measure of its prediction error.
 
